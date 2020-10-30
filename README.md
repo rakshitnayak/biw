@@ -1,1 +1,3 @@
-TinDog Starting Files
+I CREATED THIS REPOSITRY WHILE I WAS LEARNING CSS,ITS A NEWS WEBSITE WITH MULTIPLE PAGES!
+
+LINK: https://rakshitnayak.github.io/biw/
